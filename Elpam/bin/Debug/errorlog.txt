@@ -1,0 +1,41 @@
+7/21/2022 10:50:35 PM Object reference not set to an instance of an object.
+7/24/2022 12:36:11 PM Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/24/2022 12:36:56 PM Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/24/2022 12:40:24 PM Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+7/24/2022 5:47:26 PM Elpam is running
+7/25/2022 5:12:51 PM Elpam is running
+7/25/2022 5:52:47 PM Elpam is running
+7/25/2022 5:52:53 PM Elpam is running
+7/25/2022 6:59:13 PM 
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug>"E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\\drv.exe" /install 
+
+Interception command line installation tool
+Copyright (C) 2008-2018 Francisco Lopes da Silva
+
+Could not write to \system32\drivers
+
+7/25/2022 7:04:02 PM Elpam is running
+7/25/2022 11:36:02 PM Input string was not in a correct format.
+7/25/2022 11:36:16 PM Input string was not in a correct format.
+7/25/2022 11:37:26 PM Input string was not in a correct format.
+7/25/2022 11:38:25 PM Input string was not in a correct format.
+7/26/2022 10:16:09 AM Elpam is running
+7/26/2022 10:17:40 AM Elpam is running
+7/26/2022 11:24:30 AM Elpam is running
+7/26/2022 11:50:18 AM Elpam is running
+7/26/2022 5:46:21 PM Elpam is running
+7/26/2022 5:46:21 PM Elpam is running
+7/29/2022 10:14:46 PM Elpam is running
+8/8/2022 12:11:58 AM Elpam is running
+8/16/2022 8:04:02 PM Elpam is running
+8/16/2022 8:05:35 PM Elpam is running
+8/16/2022 11:25:21 PM The file .Scan\Code3.bmp could not be not found. (Code3) 
+8/17/2022 12:13:04 AM Elpam is running
+8/17/2022 12:13:04 AM Elpam is running
+8/17/2022 12:20:38 AM role
+8/17/2022 12:32:15 AM Elpam isn't open!
+8/17/2022 12:33:57 AM Elpam isn't open!
+8/17/2022 1:19:59 AM role

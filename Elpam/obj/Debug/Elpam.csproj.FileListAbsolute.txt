@@ -1,0 +1,175 @@
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.csproj.AssemblyReference.cache
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\MainWindow.g.cs
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\App.g.cs
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.cache
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.lref
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\bin\Debug\Elpam.exe.config
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\bin\Debug\Elpam.exe
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\bin\Debug\Elpam.pdb
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\MainWindow.baml
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.g.resources
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.Properties.Resources.resources
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.csproj.GenerateResource.cache
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.csproj.CoreCompileInputs.cache
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.exe
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.pdb
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\bin\Debug\WindowsInput.dll
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\bin\Debug\WindowsInput.xml
+C:\Users\Sac Xuan\Desktop\Elpam\Elpam\obj\Debug\Elpam.csproj.CopyComplete
+E:\Games\MapleStory\Tool\Elpam\Elpam\bin\Debug\Elpam.exe.config
+E:\Games\MapleStory\Tool\Elpam\Elpam\bin\Debug\Elpam.exe
+E:\Games\MapleStory\Tool\Elpam\Elpam\bin\Debug\Elpam.pdb
+E:\Games\MapleStory\Tool\Elpam\Elpam\bin\Debug\WindowsInput.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\bin\Debug\WindowsInput.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.csproj.AssemblyReference.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.csproj.SuggestedBindingRedirects.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\MainWindow.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\App.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.lref
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\MainWindow.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.g.resources
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.Properties.Resources.resources
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.csproj.GenerateResource.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.csproj.CoreCompileInputs.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.csproj.CopyComplete
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.exe
+E:\Games\MapleStory\Tool\Elpam\Elpam\obj\Debug\Elpam.pdb
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.AssemblyReference.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.SuggestedBindingRedirects.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\MainWindow.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\App.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.lref
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.exe
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.pdb
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.exe.config
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.exe
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.pdb
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\WindowsInput.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\WindowsInput.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\MainWindow.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.g.resources
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.Properties.Resources.resources
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.GenerateResource.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.CoreCompileInputs.cache
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.CopyComplete
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\FireSharp.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Newtonsoft.Json.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Extensions.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Primitives.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Newtonsoft.Json.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Extensions.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Primitives.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.App.config
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Login.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Login.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\concrt140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\cvextern.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\msvcp140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\vcruntime140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\concrt140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\cvextern.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\msvcp140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\vcruntime140.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.UI.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.World.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ZedGraph.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.UI.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.World.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ZedGraph.xml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\de\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\es\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\fr\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\hu\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\it\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ja\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\pt\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ru\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\sk\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\sv\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\tr\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\concrt140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\cvextern.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\msvcp140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x64\vcruntime140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\concrt140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\cvextern.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\msvcp140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\x86\vcruntime140.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.exe.config
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.exe
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Elpam.pdb
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\AutoHotkey.Interop.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.UI.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.World.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\FireSharp.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Extensions.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Primitives.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\WindowsInput.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ZedGraph.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.UI.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Emgu.CV.World.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Extensions.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\System.Net.Http.Primitives.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\WindowsInput.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ZedGraph.xml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\de\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\es\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\fr\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\hu\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\it\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ja\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\pt\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\ru\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\sk\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\sv\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\tr\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\zh-cn\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.App.config
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Login.g.cs
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.cache
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam_MarkupCompile.lref
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Login.baml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.g.resources
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.Properties.Resources.resources
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.csproj.CopyComplete
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.exe
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\Elpam.pdb
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\SettingForm.g.cs
+\\vmware-host\Shared Folders\E\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\SettingForm.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\SettingForm.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\SettingForm.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\ScanAddForm.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\ScanAddForm.baml
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\ScanEditForm.g.cs
+E:\Games\MapleStory\Tool\Elpam\Elpam\Elpam\obj\Debug\ScanEditForm.baml

@@ -1,0 +1,5 @@
+{
+  "tempStateAutoFuel": false,
+  "tempMaxCountIfFound": 10,
+  "tempMaxFuelPress": 5
+}

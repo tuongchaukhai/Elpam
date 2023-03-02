@@ -1,0 +1,152 @@
+﻿<Window x:Class="Elpam.SettingForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elpam"
+        mc:Ignorable="d"
+        Title="Setting" Height="225" Width="750" Padding="10" ResizeMode="NoResize" Topmost="True" Closing="Window_Closing" PreviewKeyDown="Window_PreviewKeyDown">
+    <ScrollViewer>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="191*"/>
+                <ColumnDefinition Width="542*"/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="Scan list" Height="200" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Width="677" Grid.ColumnSpan="2" Margin="28,0,0,0">
+                <Grid>
+                    <DataGrid Name="dgScan" Width="570" Height="150" VerticalAlignment="Top" HorizontalAlignment="Left"
+                  ScrollViewer.CanContentScroll="True" 
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                  AutoGenerateColumns="False"
+                      CellEditEnding="dgScan_CellEditEnding"
+                      ItemsSource="{Binding Path=combineList,NotifyOnSourceUpdated = True, UpdateSourceTrigger=PropertyChanged}" CanUserAddRows="False">
+                        <DataGrid.Columns>
+                            <DataGridCheckBoxColumn Binding="{Binding State, UpdateSourceTrigger=PropertyChanged}" Width="10" />
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Width="70" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="FileName" Binding="{Binding Path, UpdateSourceTrigger=PropertyChanged}"  Width="120" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="X" Binding="{Binding X, UpdateSourceTrigger=PropertyChanged}" Width="35" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Y" Binding="{Binding Y, UpdateSourceTrigger=PropertyChanged}" Width="35" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="XX" Binding="{Binding XX, UpdateSourceTrigger=PropertyChanged}" Width="35" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="YY" Binding="{Binding YY, UpdateSourceTrigger=PropertyChanged}" Width="35" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="ExRatio" Binding="{Binding ExRatio, UpdateSourceTrigger=PropertyChanged}" Width="40" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="T.Id" Binding="{Binding TimerId, UpdateSourceTrigger=PropertyChanged}" Width="35" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="Sound" Binding="{Binding SoundLevel, UpdateSourceTrigger=PropertyChanged}" Width="40" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="PauseMacro" Binding="{Binding PauseMacro, UpdateSourceTrigger=PropertyChanged}" Width="60" IsReadOnly="True"/>
+                            <DataGridTextColumn Header="P.M.Delay" Binding="{Binding PauseDelay, UpdateSourceTrigger=PropertyChanged}" Width="60" IsReadOnly="True"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Name="btnScanAdd" Foreground="Black" Background="White" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="28" Margin="585,15,0,0" Click="btnScanAdd_Click"/>
+                    <Button Name="btnScanEdit" Foreground="Black" Background="White" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="28" Margin="585,60,0,0" Click="btnScanEdit_Click"/>
+                    <Button Name="btnScanDelete" Foreground="Black" Background="White" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="60" Height="28" Margin="585,105,0,0" Click="btnScanDelete_Click"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Timer" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="19,205,0,0" Grid.ColumnSpan="2">
+                <Grid>
+                    <Label Content="Timer1:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimer1" HorizontalAlignment="Left" Margin="54,4,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Timer2:" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimer2" HorizontalAlignment="Left" Margin="54,34,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Point:" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerPoint" HorizontalAlignment="Left" Margin="54,64,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="ATK:" HorizontalAlignment="Left" Margin="0,90,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerATK" HorizontalAlignment="Left" Margin="54,94,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Slow+:" HorizontalAlignment="Left" Margin="124,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerSuperSlow" HorizontalAlignment="Left" Margin="181,4,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Slow:" HorizontalAlignment="Left" Margin="124,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerSlow" HorizontalAlignment="Left" Margin="181,34,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Normal:" HorizontalAlignment="Left" Margin="124,60,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerNormal" HorizontalAlignment="Left" Margin="181,64,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                    <Label Content="Fast:" HorizontalAlignment="Left" Margin="124,90,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtTimerFast" HorizontalAlignment="Left" Margin="181,94,0,0" VerticalAlignment="Top" Width="50" MaxLength="5"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Familiar" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="99,205,0,0" Grid.Column="1">
+                <Grid>
+                    <Label Content="MaxCount:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMaxCountIfFound" HorizontalAlignment="Left" Margin="69,4,0,0" VerticalAlignment="Top" Width="30"/>
+                    <Label Content="AutoFuel:" HorizontalAlignment="Left" Margin="0,34,0,0" VerticalAlignment="Top"/>
+                    <ComboBox IsEnabled="False" Name="cbbStateAutoFuel" HorizontalAlignment="Left" Margin="65,36,0,0" VerticalAlignment="Top" Width="50" SelectedIndex="1">
+                        <ComboBoxItem>true</ComboBoxItem>
+                        <ComboBoxItem>false</ComboBoxItem>
+                    </ComboBox>
+                    <Label Content="MaxPress:" HorizontalAlignment="Left" Margin="104,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMaxFuelPress" HorizontalAlignment="Left" Margin="166,4,0,0" VerticalAlignment="Top" Width="30"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Capture meso" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="104,313,0,0" Grid.Column="1">
+                <Grid>
+                    <Label Content="State:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <ComboBox Name="cbbStateCaptureMeso" HorizontalAlignment="Left" Margin="39,2,0,0" VerticalAlignment="Top" Width="50" SelectedIndex="1">
+                        <ComboBoxItem>true</ComboBoxItem>
+                        <ComboBoxItem>false</ComboBoxItem>
+                    </ComboBox>
+                    <Label Content="Timer:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="94,0,0,0"/>
+                    <TextBox Name="txtCaptureMesoTimer" HorizontalAlignment="Left" Margin="137,4,0,0" VerticalAlignment="Top" Width="30"/>
+                    <Label Content="Loop:" HorizontalAlignment="Left" Margin="174,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtCaptureMesoLoop" HorizontalAlignment="Left" Margin="214,4,0,0" VerticalAlignment="Top" Width="20"/>
+                    <Label Content="Region:" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtCMRegionX" HorizontalAlignment="Left" Margin="51,34,0,0" VerticalAlignment="Top" Width="42"/>
+                    <TextBox Name="txtCMRegionY" HorizontalAlignment="Left" Margin="98,34,0,0" VerticalAlignment="Top" Width="42"/>
+                    <TextBox Name="txtCMRegionXX" HorizontalAlignment="Left" Margin="145,34,0,0" VerticalAlignment="Top" Width="42"/>
+                    <TextBox Name="txtCMRegionYY" HorizontalAlignment="Left" Margin="192,34,0,0" VerticalAlignment="Top" Width="42"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Mob count" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="19,369,0,0" Grid.ColumnSpan="2">
+                <Grid>
+                    <Label Content="Width:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMCWidth" HorizontalAlignment="Left" Margin="45,4,0,0" VerticalAlignment="Top" Width="35"/>
+                    <Label Content="Col:" HorizontalAlignment="Left" Margin="85,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMCColumn" HorizontalAlignment="Left" Margin="117,4,0,0" VerticalAlignment="Top" Width="35"/>
+                    <Label Content="Count:" HorizontalAlignment="Left" Margin="157,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMCCount" HorizontalAlignment="Left" Margin="202,4,0,0" VerticalAlignment="Top" Width="32"/>
+                    <Label Content="Row:" HorizontalAlignment="Left" Margin="2,27,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtMCRow" HorizontalAlignment="Left" Margin="45,31,0,0" VerticalAlignment="Top" Width="189"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Random number" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="383,309,0,0" Width="108" Grid.Column="1">
+                <Grid>
+                    <Label Content="Size:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtRNRdSize" HorizontalAlignment="Left" Margin="38,4,0,0" VerticalAlignment="Top" Width="37"/>
+                    <Label Content="Loop:" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtRNMaxLoop" HorizontalAlignment="Left" Margin="40,34,0,0" VerticalAlignment="Top" Width="35"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Wrong" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="245,417,0,0" Grid.Column="1">
+                <Grid>
+                    <Label Content="Loop:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtWrongLoop" HorizontalAlignment="Left" Margin="39,0,0,0" VerticalAlignment="Center" Width="27"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="End task" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="104,417,0,0" Grid.Column="1">
+                <Grid>
+                    <Label Content="Title:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtETTitle" HorizontalAlignment="Left" Margin="40,4,0,0" VerticalAlignment="Top" Width="59"/>
+                    <Label Content="MaxPress:" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtETMaxPress" HorizontalAlignment="Left" Margin="62,34,0,0" VerticalAlignment="Top" Width="37"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="Display" Padding="10" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="337,205,0,0" Grid.Column="1">
+                <Grid>
+                    <Label Content="Topmost:" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top"/>
+                    <ComboBox Name="cbbTopmost" HorizontalAlignment="Left" Margin="58,2,0,0" VerticalAlignment="Top" Width="50" SelectedIndex="1">
+                        <ComboBoxItem>true</ComboBoxItem>
+                        <ComboBoxItem>false</ComboBoxItem>
+                    </ComboBox>
+                    <Label Content="Pos:" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                    <TextBox Name="txtWinPosX" HorizontalAlignment="Left" Margin="31,34,0,0" VerticalAlignment="Top" Width="36"/>
+                    <TextBox Name="txtWinPosY" HorizontalAlignment="Left" Margin="72,34,0,0" VerticalAlignment="Top" Width="36"/>
+                    <Button Name="btnGetPosWin" Foreground="Black" Background="White" HorizontalAlignment="Left" VerticalAlignment="Top" Width="15" Height="15" Margin="113,35,0,0" Click="btnGetPosWin_Click"/>
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </ScrollViewer>
+</Window>

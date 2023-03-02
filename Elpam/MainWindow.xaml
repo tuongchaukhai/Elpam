@@ -1,0 +1,25 @@
+﻿<Window x:Class="Elpam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elpam"
+        mc:Ignorable="d"
+        Title="Elpam" Height="125" Width="190"  ResizeMode="NoResize" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid Name="gridMain">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Name="mnuMain">
+            <MenuItem VerticalAlignment="Top" Name="mnuCaiDat" Header="Cài đặt" Click="mnuCaiDat_Click"></MenuItem>
+            <MenuItem VerticalAlignment="Top" Name="mnuEditScript" Header="AkS" Click="mnuEditScript_Click"></MenuItem>
+            <MenuItem VerticalAlignment="Top" Name="mnuRdNumber" Header="" Click="mnuRdNumber_Click" Width="30"></MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+        <Button x:Name="btnMain" Foreground="Black" Background="White" Content="START" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Height="45" Click="btnMain_Click"/>
+        <Button x:Name="btnATK" Foreground="Black" Background="White" Content="ATK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="37" Height="23" Margin="134,10,0,0" Click="btnATK_Click" Visibility="Hidden"/>
+        <Button x:Name="btnEndTask" Content=""  Visibility="Hidden"  HorizontalAlignment="Right" Margin="0,10,6,0" VerticalAlignment="Top" Width="10" Height="10" Click="btnEndTask_Click"/>
+        </Grid>
+    </Grid>
+</Window>

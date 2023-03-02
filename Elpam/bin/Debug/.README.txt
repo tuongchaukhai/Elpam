@@ -1,0 +1,5 @@
+1. Set ảnh mobs (mob1, mob2)
+2. Kiểm tra ảnh playing
+3. Test AK
+4. Kiểm tra ImportantScan
+5. Kiểm tra timer

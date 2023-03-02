@@ -1,0 +1,23 @@
+AHI := new AutoHotInterception()
+keyboardId:= 2
+if(keyboardId = "default")
+{
+	DeviceList := AHI.GetDeviceList(false)
+
+	For each, item in DeviceList
+		{
+			if item.VID != 0
+			{
+				keyboardId := AHI.GetKeyboardId(item.VID,item.PID)
+				AHI.SendKeyEvent(keyboardId, GetKeySC("a"), 1)
+				AHI.SendKeyEvent(keyboardId, GetKeySC("a"), 0)
+				Random, timeDelay, 100, 500
+				Sleep, %timeDelay%
+			}
+		}
+} else {
+	AHI.SendKeyEvent(keyboardId, GetKeySC("a"), 1)
+	AHI.SendKeyEvent(keyboardId, GetKeySC("a"), 0)
+	Random, timeDelay, 100, 500
+	Sleep, %timeDelay%
+}

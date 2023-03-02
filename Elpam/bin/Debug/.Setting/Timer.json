@@ -1,0 +1,10 @@
+{
+  "tempTimer1Delay": 1000,
+  "tempTimer2Delay": 333,
+  "tempTimerPointDelay": 10000,
+  "tempTimerATKDelay": 1000,
+  "tempTimerSuperSlowDelay": 5000,
+  "tempTimerSlowDelay": 3000,
+  "tempTimerNormalDelay": 1000,
+  "tempTimerFastDelay": 500
+}
